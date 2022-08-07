@@ -5,6 +5,11 @@ Train and test a classification algorithm that will classify the pictures and de
 
 ![image](https://user-images.githubusercontent.com/61193940/178266475-f3a7482c-9ba2-4de1-bf86-09bf9f8834f6.png)
 
+<div class="alert alert-block alert-warning">
+It's use these two object recognition HOG-SVM, Histogram of Oriented Gradients and Support Vector Machines
+
+![image](https://user-images.githubusercontent.com/61193940/183297700-cf22d0e6-531e-4178-ab39-9ebbde7549f6.png)
+
 
 
 # Sentiment Analysis
